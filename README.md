@@ -1,8 +1,11 @@
 Sakila Database Queries
 
 1a. Display the first and last names of all actors from the table actor.
+
 1b. Display the first and last name of each actor in a single column in upper case letters. Name the column Actor Name.
+
 2a. You need to find the ID number, first name, and last name of an actor, of whom you know only the first name, "Joe."
+
 2b. Find all actors whose last name contain the letters 'GEN'.
 2c. Find all actors whose last names contain the letters 'LI'. Order the rows by last name and first name, in that order.
 2d. Using IN, display the country_id and country columns of the following countries: Afghanistan, Bangladesh, and China.
